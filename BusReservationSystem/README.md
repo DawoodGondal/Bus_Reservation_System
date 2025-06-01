@@ -1,6 +1,6 @@
 # Bus Reservation System
 
-🚍 **Final Year Project 2025**  
+🚍 **Second Year Project 2025**  
 By Muhammad Dawood  
 Supervisor: Sir Saeed Rasheed  
 University of Agriculture, FSD
