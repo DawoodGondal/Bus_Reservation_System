@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs std\\BusReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\bookticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:bookticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\bookticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:bookticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\triplistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:triplistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\userregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:userregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\viewticketsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:viewticketsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\viewpaymentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:viewpaymentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\viewbookingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:viewbookingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\managetripsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:managetripsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\managetripsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:managetripsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\manageroutesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:manageroutesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\manageroutesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:manageroutesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\managebusesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:managebusesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\managebusesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:managebusesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\adminregisterform.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:adminregisterform.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\adminregisterform.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:adminregisterform.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|d:\\vs std\\busreservationsystem\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69F5C01C-AB29-4C12-A1C7-1C6DDB34F3E5}|BusReservationSystem.csproj|solutionrelative:startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookTicketForm.cs",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\BookTicketForm.cs",
+              "RelativeDocumentMoniker": "BookTicketForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\BookTicketForm.cs",
+              "RelativeToolTip": "BookTicketForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:46:20.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookTicketForm.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\BookTicketForm.cs",
+              "RelativeDocumentMoniker": "BookTicketForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\BookTicketForm.cs [Design]",
+              "RelativeToolTip": "BookTicketForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:46:16.418Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TripListForm.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\TripListForm.cs",
+              "RelativeDocumentMoniker": "TripListForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\TripListForm.cs [Design]",
+              "RelativeToolTip": "TripListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:46:03.876Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDashboard.cs",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "UserDashboard.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\UserDashboard.cs",
+              "RelativeToolTip": "UserDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:45:50.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "UserDashboard.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\UserDashboard.cs [Design]",
+              "RelativeToolTip": "UserDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:45:43.524Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:45:27.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:45:21.365Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\UserRegisterForm.cs",
+              "RelativeDocumentMoniker": "UserRegisterForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\UserRegisterForm.cs [Design]",
+              "RelativeToolTip": "UserRegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:45:10.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewTicketsForm.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\ViewTicketsForm.cs",
+              "RelativeDocumentMoniker": "ViewTicketsForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\ViewTicketsForm.cs [Design]",
+              "RelativeToolTip": "ViewTicketsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:44:54.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewPaymentsForm.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\ViewPaymentsForm.cs",
+              "RelativeDocumentMoniker": "ViewPaymentsForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\ViewPaymentsForm.cs [Design]",
+              "RelativeToolTip": "ViewPaymentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:44:51.969Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewBookingsForm.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\ViewBookingsForm.cs",
+              "RelativeDocumentMoniker": "ViewBookingsForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\ViewBookingsForm.cs [Design]",
+              "RelativeToolTip": "ViewBookingsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:44:43.786Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManageTripsForm.cs",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\ManageTripsForm.cs",
+              "RelativeDocumentMoniker": "ManageTripsForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\ManageTripsForm.cs",
+              "RelativeToolTip": "ManageTripsForm.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAwwE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:44:13.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageTripsForm.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\ManageTripsForm.cs",
+              "RelativeDocumentMoniker": "ManageTripsForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\ManageTripsForm.cs [Design]",
+              "RelativeToolTip": "ManageTripsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:44:08.904Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageRoutesForm.cs",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\ManageRoutesForm.cs",
+              "RelativeDocumentMoniker": "ManageRoutesForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\ManageRoutesForm.cs",
+              "RelativeToolTip": "ManageRoutesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:43:46.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageRoutesForm.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\ManageRoutesForm.cs",
+              "RelativeDocumentMoniker": "ManageRoutesForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\ManageRoutesForm.cs [Design]",
+              "RelativeToolTip": "ManageRoutesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:43:41.649Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageBusesForm.cs",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\ManageBusesForm.cs",
+              "RelativeDocumentMoniker": "ManageBusesForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\ManageBusesForm.cs",
+              "RelativeToolTip": "ManageBusesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:43:01.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageBusesForm.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\ManageBusesForm.cs",
+              "RelativeDocumentMoniker": "ManageBusesForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\ManageBusesForm.cs [Design]",
+              "RelativeToolTip": "ManageBusesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:42:56.506Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\AdminDashboard.cs*",
+              "RelativeToolTip": "AdminDashboard.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:42:40.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\AdminDashboard.cs [Design]*",
+              "RelativeToolTip": "AdminDashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:42:04.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminRegisterForm.cs.cs",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\AdminRegisterForm.cs.cs",
+              "RelativeDocumentMoniker": "AdminRegisterForm.cs.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\AdminRegisterForm.cs.cs",
+              "RelativeToolTip": "AdminRegisterForm.cs.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:41:28.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminRegisterForm.cs.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\AdminRegisterForm.cs.cs",
+              "RelativeDocumentMoniker": "AdminRegisterForm.cs.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\AdminRegisterForm.cs.cs [Design]",
+              "RelativeToolTip": "AdminRegisterForm.cs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:41:22.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminLoginForm.cs",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\AdminLoginForm.cs",
+              "RelativeDocumentMoniker": "AdminLoginForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\AdminLoginForm.cs",
+              "RelativeToolTip": "AdminLoginForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:41:01.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminLoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\AdminLoginForm.cs",
+              "RelativeDocumentMoniker": "AdminLoginForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\AdminLoginForm.cs [Design]",
+              "RelativeToolTip": "AdminLoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:40:53.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\StartForm.cs",
+              "RelativeDocumentMoniker": "StartForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\StartForm.cs",
+              "RelativeToolTip": "StartForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:39:14.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StartForm.cs [Design]",
+              "DocumentMoniker": "D:\\vs std\\BusReservationSystem\\StartForm.cs",
+              "RelativeDocumentMoniker": "StartForm.cs",
+              "ToolTip": "D:\\vs std\\BusReservationSystem\\StartForm.cs [Design]",
+              "RelativeToolTip": "StartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:39:10.155Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
